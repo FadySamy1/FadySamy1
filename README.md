@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FadySamy1
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, Html, CSS and PHP
+- 🌱 I’m currently learning Python, Html, CSS and Javascript 
 - 💞️ I’m looking to collaborate on Projects to enhance my knowledge
 - 📫 How to reach me just send me on GitHub
 
